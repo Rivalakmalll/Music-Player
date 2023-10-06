@@ -4,14 +4,16 @@ If you want run this source run use live  Host do not run as Debug
 
 # How To put more song And Picture Song?
 
--Find sond u want to put inside
+- Find sond u want to put inside Must mp3 file 
 
--Open Index.js
+- For picture must png file 
 
--add same code like other code
+- Open Index.js
 
--remember put sampe path in code to ur file
+- add same code like other code
 
--then save code and refesh ur page
+- remember put sampe path in code to ur file
 
-#Dont forget give me pull request, Fork, Anad Star ^-^
+-  save code and refesh ur page
+
+# Dont forget give me pull request, Fork, Anad Star ^-^
